@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: 
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,37 +11,46 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Computer Science  
+  North Carolina State University  
+  USA  
+  (2024 - 2029)
+
+* BSc. in Electrical and Electronic Engineering  
+  Kwame Nkrumah University of Science and Technology  
+  Ghana  
+  (2018 - 2022)
+
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
 * Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  * North Carolina State University
+  * Duties included: Conducting Reasearch in the field of contemporary software modernization
+  * Supervisor: [Wesley Klewerton Guez Assunção](https://wesleyklewerton.github.io/teaching.html)
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* October 2023 - July 2024: Full Stack Engineer
+  * Techustle INC.
+
+
+* December 2022 - September 2023: Full Stack Engineer
+  * TeamAlfy Web Services.
+
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming Languages
+  * TypeScript
+  * Python
+  * PHP
+  * Kotlin and Java
+* Frameworks
+  * ReactJS, React Native
+  * Django
+  * Laravel
+  * Native Android Development (Kotlin)
 
-Publications
+<!-- Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
@@ -62,3 +71,4 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+ -->
