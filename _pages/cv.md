@@ -22,19 +22,23 @@ Education
   (2018 - 2022)
 
 
-Work experience
+Work Experience
 ======
-* Fall 2015: Research Assistant
-  * North Carolina State University
-  * Duties included: Conducting Reasearch in the field of contemporary software modernization
-  * Supervisor: [Wesley Klewerton Guez Assunção](https://wesleyklewerton.github.io/teaching.html)
+* August 2024 - Present:  
+  Research Assistant  
+  North Carolina State University  
+  Duties include: Conducting Reasearch in the field of contemporary software modernization  
+  Supervisor: [Wesley Klewerton Guez Assunção](https://wesleyklewerton.github.io/teaching.html)
+ 
 
-* October 2023 - July 2024: Full Stack Engineer
-  * Techustle INC.
+* October 2023 - July 2024:  
+  Full Stack Engineer  
+  Techustle INC.
 
 
-* December 2022 - September 2023: Full Stack Engineer
-  * TeamAlfy Web Services.
+* December 2022 - September 2023:  
+  Full Stack Engineer  
+  TeamAlfy Web Services.  
 
   
 Skills
