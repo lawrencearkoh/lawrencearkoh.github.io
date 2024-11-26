@@ -11,6 +11,5 @@ I am pursuing a PhD in Computer Science at NC State University, with a focus on 
 
 **Research Interests:**
 - Software Modernization
-- Software Variability Management
-- AI for software Engineering
+- Software Quality
 
