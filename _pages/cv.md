@@ -11,12 +11,12 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Computer Science  
+* **Ph.D** in Computer Science  
   North Carolina State University  
   USA  
-  (2024 - 2029)
+  (2024 - Present)
 
-* BSc. in Electrical and Electronic Engineering  
+* **BSc.** in Electrical and Electronic Engineering  
   Kwame Nkrumah University of Science and Technology  
   Ghana  
   (2018 - 2022)
@@ -24,21 +24,23 @@ Education
 
 Work Experience
 ======
-* August 2024 - Present:  
-  Research Assistant  
+* **Research Assistant**  
   North Carolina State University  
   Duties include: Conducting Reasearch in the field of contemporary software modernization  
   Supervisor: [Wesley Klewerton Guez Assunção](https://wesleyklewerton.github.io/teaching.html)
+  August 2024 - Present
  
 
-* October 2023 - July 2024:  
-  Full Stack Engineer  
-  Techustle INC.
+* **Full Stack Engineer**,  
+  Techustle INC,  
+  Languages & Frameworks: TypeScript (ReactJS, Ionic Capactior), Python (Django)  
+  October 2023 - July 2024 
 
 
-* December 2022 - September 2023:  
-  Full Stack Engineer  
-  TeamAlfy Web Services.  
+* **Full Stack Engineer**,   
+  TeamAlfy Web Services,   
+  Languages & Frameworks: TypeScript (ReactJS, React-Native), PHP (Laravel)  
+  December 2022 - September 2023 
 
   
 Skills
