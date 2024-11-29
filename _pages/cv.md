@@ -26,8 +26,8 @@ Work Experience
 ======
 * **Research Assistant**  
   North Carolina State University  
-  Duties include: Conducting Reasearch in the field of contemporary software modernization  
-  Supervisor: [Wesley Klewerton Guez Assunção](https://wesleyklewerton.github.io/teaching.html)
+  Duties include: Conducting Reasearch in the field of software modernization and software quality 
+  Supervisor: [Wesley Klewerton Guez Assunção](https://wesleyklewerton.github.io/teaching.html)  
   August 2024 - Present
  
 
