@@ -1,0 +1,16 @@
+.pub-item{
+   border-left: 3px solid rgba(68, 68, 68, 0.443);
+   padding-left: 5px ;
+   border-radius: 5px;
+   margin-bottom: 20px;
+}
+.pub-item .title{
+    text-decoration: none;
+}
+.pub-item .authors{
+    font-size: 15px;
+}
+
+.pub-item .venue{
+    font-size: 15px;
+}
