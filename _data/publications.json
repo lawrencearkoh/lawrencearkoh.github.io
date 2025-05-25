@@ -1,26 +1,26 @@
 [
-  {
-    "title": "Relating Complexity, Explicitness, Effectiveness of Refactorings and Non-Functional Requirements: A Replication Study",
-    "authors": "Vinícius Soares, Lawrence Arkoh, Paulo Roberto Farah, Anderson Uchôa, Alessandro Garcia, Wesley KG Assunção",
-    "venue": "Evaluation and Assessment in Software Engineering (EASE), 2025",
-    "year": "2025",
-    "link": "https://arxiv.org/abs/2505.08016",
-    "pdf": "https://arxiv.org/pdf/2505.08016"
-  },
-    {
-    "title": "Assessing the Bug-Proneness of Refactored Code: A Longitudinal Multi-Project Study",
-    "authors": "Isabella Ferreira, Lawrence Arkoh, Anderson Uchôa, Ana Carla Bibiano, Alessandro Garcia, Wesley KG Assunção",
-    "venue": "Evaluation and Assessment in Software Engineering (EASE), 2025",
-    "year": "2025",
-    "link": "https://arxiv.org/abs/2505.08005",
-    "pdf": "https://arxiv.org/pdf/2505.08005"
-  },
-    {
-    "title": "Contemporary Software Modernization: Strategies, Driving Forces, and Research Opportunities",
-    "authors": "Wesley K. G. Assunção; Luciano Marchezan; Lawrence Arkoh; Alexander Egyed; and Rudolf Ramler",
-    "venue": "ACM Transactions on Software Engineering and Methodology, 2025",
-    "year": "2025",
-    "link": "https://dl.acm.org/doi/10.1145/3708527",
-    "pdf": "https://dl.acm.org/doi/pdf/10.1145/3708527"
-  }
+	{
+		"title": "Relating Complexity, Explicitness, Effectiveness of Refactorings and Non-Functional Requirements: A Replication Study",
+		"authors": "Vinícius Soares, Lawrence Arkoh, Paulo Roberto Farah, Anderson Uchôa, Alessandro Garcia, Wesley KG Assunção",
+		"venue": "Evaluation and Assessment in Software Engineering (EASE), 2025",
+		"year": "2025",
+		"link": "https://arxiv.org/abs/2505.08016",
+		"pdf": "https://arxiv.org/pdf/2505.08016"
+	},
+	{
+		"title": "Assessing the Bug-Proneness of Refactored Code: A Longitudinal Multi-Project Study",
+		"authors": "Isabella Ferreira, Lawrence Arkoh, Anderson Uchôa, Ana Carla Bibiano, Alessandro Garcia, Wesley KG Assunção",
+		"venue": "Evaluation and Assessment in Software Engineering (EASE), 2025",
+		"year": "2025",
+		"link": "https://arxiv.org/abs/2505.08005",
+		"pdf": "https://arxiv.org/pdf/2505.08005"
+	},
+	{
+		"title": "Contemporary Software Modernization: Strategies, Driving Forces, and Research Opportunities",
+		"authors": "Wesley K. G. Assunção; Luciano Marchezan; Lawrence Arkoh; Alexander Egyed; and Rudolf Ramler",
+		"venue": "ACM Transactions on Software Engineering and Methodology, 2025",
+		"year": "2025",
+		"link": "https://dl.acm.org/doi/10.1145/3708527",
+		"pdf": "https://dl.acm.org/doi/pdf/10.1145/3708527"
+	}
 ]
